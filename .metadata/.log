@@ -1,0 +1,271 @@
+!SESSION 2023-12-14 11:22:20.263 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-12-14 11:23:45.485
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-14 11:23:45.485
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-14 11:23:49.135
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-12-19 08:19:41.269 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-19 08:19:43.105
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-19 08:20:05.550
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.200.20230523-2106.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-19 08:20:06.919
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-19 08:20:06.919
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-19 08:20:09.777
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-12-19 08:21:24.186 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-19 08:21:25.189
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-19 08:21:55.762
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.200.20230523-2106.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-19 08:21:57.293
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-19 08:21:57.293
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-19 08:22:00.032
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-12-20 13:47:55.598 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-20 13:47:56.696
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-20 13:48:03.938
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.200.20230523-2106.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-20 13:48:05.554
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-20 13:48:05.554
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-20 13:48:08.802
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-01-04 09:40:46.254 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-04 09:41:04.706
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-04 09:41:05.091
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-01-04 09:41:05.924
+!MESSAGE Fragment from platform:/plugin/de.empri.devops.gitprivacy of de.empri.devops.gitprivacy could not be validated and was not merged: org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@2375a976 (featurename: handlers, parentElementId: xpath:/, positionInList: null)
+
+!ENTRY org.eclipse.jface 2 0 2024-01-04 09:41:06.927
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-04 09:41:06.927
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-04 09:41:11.122
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-14 12:05:05.007 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.8
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 12:05:07.178
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 12:05:15.980
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-14 12:05:16.699
+!MESSAGE Fragment from platform:/plugin/de.empri.devops.gitprivacy of de.empri.devops.gitprivacy could not be validated and was not merged:  -> Validation result: Diagnostic ERROR source=org.eclipse.emf.ecore code=0 Diagnosis of org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@5fa5c8cf{platform:/plugin/de.empri.devops.gitprivacy/fragment.e4xmi#_fW12kIrOEeW7h_qdP9N9fw} data=[org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@5fa5c8cf (featurename: handlers, parentElementId: xpath:/, positionInList: null)] [Diagnostic ERROR source=org.eclipse.emf.ecore code=1 The required feature 'command' of 'org.eclipse.e4.ui.model.application.commands.impl.HandlerImpl@768f4b42{platform:/plugin/de.empri.devops.gitprivacy/fragment.e4xmi#_Hqq9MKVDEeuR5c0A_TIKWQ}' must be set data=[de.empri.devops.gitprivacy.handler.1=org.eclipse.e4.ui.model.application.commands.impl.HandlerImpl@768f4b42 (tags: null, contributorURI: null) (contributionURI: bundleclass://de.empri.devops.gitprivacy/de.empri.devops.gitprivacy.preferences.ShowRealGitDatesMenuHandler, object: null), org.eclipse.emf.ecore.impl.EReferenceImpl@4ae280da (name: command) (ordered: true, unique: true, lowerBound: 1, upperBound: 1) (changeable: true, volatile: false, transient: false, defaultValueLiteral: null, unsettable: false, derived: false) (containment: false, resolveProxies: true)]]org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@5fa5c8cf (featurename: handlers, parentElementId: xpath:/, positionInList: null)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-14 12:05:21.518
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-14 12:11:50.641 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.8
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 12:11:53.327
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 12:11:54.402
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-14 12:11:55.056
+!MESSAGE Fragment from platform:/plugin/de.empri.devops.gitprivacy of de.empri.devops.gitprivacy could not be validated and was not merged:  -> Validation result: Diagnostic ERROR source=org.eclipse.emf.ecore code=0 Diagnosis of org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@67f591c2{platform:/plugin/de.empri.devops.gitprivacy/fragment.e4xmi#_fW12kIrOEeW7h_qdP9N9fw} data=[org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@67f591c2 (featurename: handlers, parentElementId: xpath:/, positionInList: null)] [Diagnostic ERROR source=org.eclipse.emf.ecore code=1 The required feature 'command' of 'org.eclipse.e4.ui.model.application.commands.impl.HandlerImpl@709d6de5{platform:/plugin/de.empri.devops.gitprivacy/fragment.e4xmi#_Hqq9MKVDEeuR5c0A_TIKWQ}' must be set data=[de.empri.devops.gitprivacy.handler.1=org.eclipse.e4.ui.model.application.commands.impl.HandlerImpl@709d6de5 (tags: null, contributorURI: null) (contributionURI: bundleclass://de.empri.devops.gitprivacy/de.empri.devops.gitprivacy.preferences.ShowRealGitDatesMenuHandler, object: null), org.eclipse.emf.ecore.impl.EReferenceImpl@1a88c4f5 (name: command) (ordered: true, unique: true, lowerBound: 1, upperBound: 1) (changeable: true, volatile: false, transient: false, defaultValueLiteral: null, unsettable: false, derived: false) (containment: false, resolveProxies: true)]]org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@67f591c2 (featurename: handlers, parentElementId: xpath:/, positionInList: null)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-14 12:11:59.538
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-14 12:15:10.231 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.8
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/fatim/eclipse-workspace/TestNGFrameworkSalesforce/
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 12:15:12.412
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 12:15:13.558
+!MESSAGE Logback config file: C:\Users\fatim\eclipse-workspace\TestNGFrameworkSalesforce\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-05-14 12:15:14.187
+!MESSAGE Fragment from platform:/plugin/de.empri.devops.gitprivacy of de.empri.devops.gitprivacy could not be validated and was not merged:  -> Validation result: Diagnostic ERROR source=org.eclipse.emf.ecore code=0 Diagnosis of org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@51f34185{platform:/plugin/de.empri.devops.gitprivacy/fragment.e4xmi#_fW12kIrOEeW7h_qdP9N9fw} data=[org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@51f34185 (featurename: handlers, parentElementId: xpath:/, positionInList: null)] [Diagnostic ERROR source=org.eclipse.emf.ecore code=1 The required feature 'command' of 'org.eclipse.e4.ui.model.application.commands.impl.HandlerImpl@e49437{platform:/plugin/de.empri.devops.gitprivacy/fragment.e4xmi#_Hqq9MKVDEeuR5c0A_TIKWQ}' must be set data=[de.empri.devops.gitprivacy.handler.1=org.eclipse.e4.ui.model.application.commands.impl.HandlerImpl@e49437 (tags: null, contributorURI: null) (contributionURI: bundleclass://de.empri.devops.gitprivacy/de.empri.devops.gitprivacy.preferences.ShowRealGitDatesMenuHandler, object: null), org.eclipse.emf.ecore.impl.EReferenceImpl@26a4f9ed (name: command) (ordered: true, unique: true, lowerBound: 1, upperBound: 1) (changeable: true, volatile: false, transient: false, defaultValueLiteral: null, unsettable: false, derived: false) (containment: false, resolveProxies: true)]]org.eclipse.e4.ui.model.fragment.impl.StringModelFragmentImpl@51f34185 (featurename: handlers, parentElementId: xpath:/, positionInList: null)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-14 12:15:18.840
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\fatim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
