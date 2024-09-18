@@ -31,9 +31,9 @@ public class BaseTest {
 	
 	
 	public void takescreenshot(WebDriver driver, String String) {  //TakesScreenshot is a class
-		//Takes Screen shot interface create and Object of the screen
+		//Takes Screen shot 
 		TakesScreenshot screenshot=((TakesScreenshot)driver);
-		//store this in source file format.
+		//store the screen shot in this file
 		File scrFile=screenshot.getScreenshotAs(OutputType.FILE);
 		
 		Date current =new Date();

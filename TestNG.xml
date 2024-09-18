@@ -8,10 +8,10 @@
 	<parameter name="username" value="admin123@gmail.com"></parameter> 
 	<parameter name="password" value="admin123"></parameter>
 	
-	<listeners>
+	<!-- <listeners>
 		<listener class-name="com.testng.listeners.TestListener"></listener>
 		
-	</listeners>
+	</listeners> -->
 	  
 	<test name="Login">
 		<classes>
